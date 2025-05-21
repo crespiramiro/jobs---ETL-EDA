@@ -21,7 +21,6 @@ This project implements an ETL pipeline to collect, clean, and analyze remote jo
 - **Loading**: The cleaned dataset is loaded into a PostgreSQL database under the schema `jobs.all_jobs`.
 1. Analysis and Visualization Tools
 - **R** was used for exploratory data analysis and potential modeling.
-- **Tableau** was used for presenting professional dashboards, focusing on clarity and accessibility.
 1. Key Decisions and Rationale
 - Combining Jobicy and Remotive ensures broader coverage of global job markets.
 - Imputing salaries instead of deleting rows prevents bias and loss of information.
@@ -50,7 +49,6 @@ Este proyecto implementa un pipeline ETL para recopilar, limpiar y analizar ofer
 - **Carga**: El dataset limpio se carga a una base de datos PostgreSQL bajo el esquema `jobs.all_jobs`.
 1. Herramientas de Análisis y Visualización
 - **R** para análisis estadístico exploratorio y modelado.
-- **Tableau** para dashboards profesionales con claridad y estética.
 1. Decisiones Clave
 - Usar dos fuentes garantiza cobertura más amplia.
 - Imputar en lugar de eliminar evita sesgos.
