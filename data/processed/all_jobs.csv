@@ -1,0 +1,513 @@
+jobTitle,companyName,salary_cleaned,pubDate,region,category,seniority
+Linux Desktop &amp; Devices Support Engineer,Canonical,164465.0,2025-05-14 06:01:48,Other,Engineering,Other
+Senior Backend Engineer (AWS),Lumenalta,164465.0,2025-05-14 04:31:06,Other,Engineering,Senior
+Business Development Representative,Canonical,164465.0,2025-05-14 04:29:16,Other,Other,Other
+Senior Node Engineer,Lumenalta,164465.0,2025-05-13 05:16:02,Other,Engineering,Senior
+Senior Product Designer,Lumenalta,164465.0,2025-05-13 05:16:00,Other,Product,Senior
+Senior Migration Specialist,Uscreen,164465.0,2025-05-12 16:42:05,Other,Other,Senior
+Large Language Model (LLM) AI Research Engineer,upfeat,164465.0,2025-05-12 04:54:48,Other,Data,Other
+"Sr. Protocol Researcher, Blockchain Sharding",Subspace Network,164465.0,2025-05-11 19:29:19,Other,Data,Senior
+Content Marketing Manager,Firstbase.io,164465.0,2025-05-10 05:54:00,Other,Marketing,Other
+WordPress Developer,Awesome Motive,164465.0,2025-05-09 05:39:12,Other,Engineering,Other
+Business Analyst,Designit,133630.0,2025-05-09 05:33:59,North America,Data,Other
+Lead Generation Specialist for Linkedin (Night shifts),Andersen Lab,164465.0,2025-05-08 14:38:12,Other,Other,Lead
+"Data Scientist, Growth",Eight Sleep,170918.59999999998,2025-05-08 04:41:24,Europe,Data,Other
+"Full Stack Engineer, Web",Eight Sleep,170918.59999999998,2025-05-08 04:41:22,Europe,Other,Other
+Product Designer,Firstbase.io,164465.0,2025-05-08 04:39:21,Other,Product,Other
+Customer Success Manager,Deel,151660.0,2025-05-07 20:58:27,Latam,Management,Other
+"Senior Software Engineer, Tokenization",Chainlink Labs,164465.0,2025-05-07 06:25:24,Other,Engineering,Senior
+"Senior Software Engineer, Rust (Backend)",Kraken,169000.0,2025-05-06 04:50:00,Europe,Engineering,Senior
+"Manager, Digital Marketing",CrossFit,164465.0,2025-05-05 04:58:21,Other,Marketing,Other
+Content Writer - AI Researcher,Blavity,164465.0,2025-05-04 04:28:41,Other,Data,Other
+Contract Sr. JavaScript Engineer,10up,164465.0,2025-05-04 04:27:53,Other,Engineering,Senior
+Head of Partnerships,Exodus,145000.0,2025-05-04 04:18:06,Other,Management,Other
+Senior Protocol Engineer - Rust,Subspace Network,164465.0,2025-05-03 03:45:24,Other,Engineering,Senior
+"B2B Copywriter, Demand Generation",ModSquad,164465.0,2025-05-02 04:18:55,Other,Other,Other
+Sr. Software Engineer,Exodus,175000.0,2025-05-01 04:41:59,Other,Engineering,Senior
+Senior / Staff Site Reliability Engineer,Scroll.io,164465.0,2025-04-30 09:43:24,Other,Engineering,Senior
+Javascript Fullstack Engineer - Mid-Level,Lumenalta,164465.0,2025-04-29 04:28:43,Other,Engineering,Mid
+"Sr. Backend Developer, NodeJS",Bitfinex,164465.0,2025-04-28 04:22:19,Other,Engineering,Senior
+Mid-Level Fullstack Python/React Engineer,Lumenalta,164465.0,2025-04-28 04:18:21,Other,Engineering,Mid
+Freelance Copywriter,Cella,164465.0,2025-04-27 04:50:30,Other,Other,Other
+OCaml Developer,Ahrefs,164465.0,2025-04-27 04:09:56,Other,Engineering,Other
+Graduate Customer Success Manager,Canonical,164465.0,2025-04-26 04:50:23,Other,Management,Other
+Senior Software Engineer - Frontend - Growth SEO,Kraken,165000.0,2025-04-25 04:12:25,Other,Engineering,Senior
+Creator Representative,ConvertKit,164465.0,2025-04-25 04:08:41,Other,Other,Other
+Customer Support Associate,Prezi,164465.0,2025-04-25 04:07:11,Other,Other,Mid
+Account Executive,Athena,164465.0,2025-04-23 04:35:07,Other,Other,Other
+Technical Writer,GitLab,127600.0,2025-04-23 04:30:06,Latam,Other,Other
+Technical Account Manager - Newspack,Automattic,101500.0,2025-04-22 04:42:50,Other,Management,Other
+Research Engineer,Chainlink Labs,164465.0,2025-04-22 04:36:06,Other,Engineering,Other
+"Expert Advisor, Health",WebFX,164465.0,2025-04-22 04:31:01,Other,Other,Senior
+UX Designers,Shopify,164465.0,2025-04-19 09:29:04,Other,UX,Other
+"Technical Data Analyst, Blockchain",Chainlink Labs,164465.0,2025-04-19 09:28:14,Other,Data,Other
+Backend Engineer,Qventus,151660.0,2025-04-19 09:24:00,Latam,Engineering,Other
+"Customer Operations, Talent Community",PointClickCare,164465.0,2025-04-18 04:37:10,Other,Other,Other
+Senior Security Analyst,Identify Security,164465.0,2025-04-18 04:36:02,Other,Data,Senior
+Frontend Engineer,Qventus,151660.0,2025-04-18 04:23:16,Latam,Engineering,Other
+Staff Product Designer,Elevate Labs,151660.0,2025-04-17 04:52:53,Latam,Product,Other
+Senior Backend Engineer (North or South America),Elevate Labs,167500.0,2025-04-17 04:52:41,Latam,Engineering,Senior
+"Software Engineer, Present Editor",Prezi,164465.0,2025-04-16 04:35:41,Other,Engineering,Other
+Content Writer,Cella,164465.0,2025-04-15 04:36:57,Other,Other,Other
+Android Seveloper,Planner 5D,170918.59999999998,2025-05-14 05:55:44,Europe,Other,Other
+Customer Support Agent,Planner 5D,170918.59999999998,2025-05-14 05:53:52,Europe,Other,Other
+Head of Customer Support - DTC E-commerce,Foxelli Group,170918.59999999998,2025-05-12 16:38:08,Europe,Management,Other
+Freelance Tutorial Writer,DataCamp,170918.59999999998,2025-05-12 04:55:30,Europe,Other,Other
+Senior / Staff Fullstack Engineer,Linear,170918.59999999998,2025-05-12 04:44:58,Europe,Engineering,Senior
+Creative Director (Web &amp; Brand),Linear,133630.0,2025-05-11 19:26:15,North America,Management,Other
+Data Engineer,Pagos,170918.59999999998,2025-05-10 05:40:15,Europe,Data,Other
+Senior Technical Writer,Kong Inc.,170918.59999999998,2025-05-10 04:52:55,Europe,Other,Senior
+Technical Consultant,Degreed,170918.59999999998,2025-05-09 05:09:20,Europe,Other,Other
+"Customer Success Manager, Deel IT",Deel,170918.59999999998,2025-05-06 04:34:30,Europe,Other,Other
+Corporate Development Associate,Find.co,170918.59999999998,2025-05-05 20:31:34,Europe,Other,Mid
+Growth Marketing Manager,Find.co,170918.59999999998,2025-05-05 13:55:10,Europe,Marketing,Other
+Python Developer,Bitfinex,170918.59999999998,2025-05-04 05:41:23,Europe,Engineering,Other
+Senior iOS Engineer,Help Scout,168500.0,2025-05-02 04:23:54,Europe,Engineering,Senior
+Sr. Mobile Content Developer,DataCamp,170918.59999999998,2025-05-02 04:21:16,Europe,Engineering,Senior
+Senior Backend Engineer (Darwin),V7,105000.0,2025-05-01 19:23:22,Europe,Engineering,Senior
+iOS Engineer (Poe),Quora,194813.5,2025-04-30 09:34:43,Europe,Engineering,Other
+Senior Designer - Web,Kraken,170918.59999999998,2025-04-27 04:08:24,Europe,Design,Senior
+Sr. UX Designer,Canonical,170918.59999999998,2025-04-26 04:50:07,Europe,UX,Senior
+Software Engineer - Rust - Backend,Kraken,170918.59999999998,2025-04-25 15:42:06,Europe,Engineering,Other
+Digital Content Manager,COMPLY,92500.0,2025-05-14 05:14:49,North America,Management,Other
+GPU Solutions Engineer,Vultr,145000.0,2025-05-14 04:35:39,North America,Engineering,Other
+Director of Product Management,Crunchtime,133630.0,2025-05-14 04:35:14,North America,Management,Other
+Account Executive,UpKeep,82500.0,2025-05-14 04:28:48,North America,Other,Other
+Sales Development Representative,UpKeep,52500.0,2025-05-14 04:28:12,North America,Other,Other
+Intermediate Support Engineer (US Federal),GitLab,114400.0,2025-05-14 03:59:56,North America,Engineering,Mid
+Senior Learning Designer,Pinterest,181301.0,2025-05-14 03:56:06,North America,Design,Senior
+Sr. Product Support Specialist,Pinterest,116688.0,2025-05-14 03:55:58,North America,Product,Senior
+Lead Interoperability Engineer,Innovaccer,133630.0,2025-05-14 03:46:18,North America,Engineering,Lead
+Strategic Sales Director (West),Cresta,140000.0,2025-05-13 05:15:43,North America,Management,Other
+Brand Designer,Cresta,133630.0,2025-05-13 05:15:10,North America,Design,Other
+Commercial Account Manager,Wolfram,65000.0,2025-05-13 05:14:06,North America,Management,Other
+Sales Recruiter,Figma,173000.0,2025-05-13 05:12:58,North America,Other,Other
+Engineering Manager - Fullstack,Givebutter,177500.0,2025-05-13 05:10:10,North America,Engineering,Other
+Technical Consultant - PST,PerfectServe,133630.0,2025-05-13 03:22:09,North America,Other,Other
+Customer Success Manager - Advertising,Nielsen,121500.0,2025-05-13 03:19:46,North America,Management,Other
+Retail Sales Analytics Manager,Life360,138000.0,2025-05-13 03:12:23,North America,Data,Other
+Onboarding Consultant,Ascensus,133630.0,2025-05-13 03:05:41,North America,Other,Other
+Talent Management Generalist,GoHealth Urgent Care,133630.0,2025-05-12 05:00:04,North America,Other,Other
+Social Media Specialist,GoHealth Urgent Care,133630.0,2025-05-12 04:58:17,North America,Other,Other
+Customer Success Consultant,Lumen Technologies,86688.0,2025-05-12 04:52:28,North America,Other,Other
+"Account Executive, Public Sector",Alteryx,152500.0,2025-05-12 04:49:49,North America,Management,Other
+Technical Account Manager,Alteryx,106350.0,2025-05-12 04:49:42,North America,Management,Other
+Account Executive (Enterprise),Figma,145000.0,2025-05-12 04:46:05,North America,Other,Other
+Customer Success Manager (Direct),Axon,75200.0,2025-05-11 19:37:18,North America,Management,Other
+Account Executive,Boulevard,70000.0,2025-05-11 19:28:54,North America,Other,Other
+Sales Account Executive - Home Service,Scorpion,69500.0,2025-05-11 19:25:28,North America,Other,Other
+Senior Loan Officer,RenoFi,133630.0,2025-05-11 19:23:38,North America,Other,Senior
+Cloud Infrastructure Engineer,AccuWeather,133630.0,2025-05-11 19:23:38,North America,Engineering,Other
+Senior Software Engineer,Zendesk,181000.0,2025-05-10 05:46:04,North America,Engineering,Senior
+Senior Account Executive,TeamSnap,164725.0,2025-05-10 05:01:18,North America,Other,Senior
+Full-Stack Software Engineer,Amount,160000.0,2025-05-10 04:55:34,North America,Engineering,Other
+Senior Risk Analytics Engineer,Pipe,134000.0,2025-05-09 20:31:36,North America,Engineering,Senior
+Customer Service Representative,PNC,46900.0,2025-05-09 06:55:06,North America,Other,Other
+Front End Engineer,Peerspace,140000.0,2025-05-09 05:39:28,North America,Engineering,Other
+Staff Data Analyst,Headspace,164257.0,2025-05-09 05:38:57,North America,Data,Other
+"Senior Account Executive, Food and Beverage",Target,179500.0,2025-05-09 05:37:47,North America,Other,Senior
+Enterprise Sales Executive,Calm,266725.0,2025-05-09 05:34:03,North America,Other,Other
+Campaigns Marketing Manager,Pearson,164465.0,2025-05-12 04:46:13,Other,Data,Other
+Senior Database Administrator,Kraken,165000.0,2025-05-09 05:26:20,Other,Other,Senior
+Regional HR Manager - APAC,Canonical,164465.0,2025-04-24 03:20:54,Other,Management,Other
+Technical Support Engineer - South Asia,CertiK,164465.0,2025-04-23 04:31:20,Other,Engineering,Other
+"Copywriter, Health",WebFX,164465.0,2025-04-22 04:31:59,Other,Other,Other
+Customer Success Manager,Chainlink Labs,164465.0,2025-04-18 15:13:00,Other,Management,Other
+Fullstack Developer (UI),Paymentology,164465.0,2025-04-15 04:33:15,Other,Engineering,Other
+AI Filmmaker,Bitfinex,164465.0,2025-04-15 04:16:23,Other,Data,Other
+Senior Data Engineer,Hatch,169830.0,2025-05-12 14:50:38,North America,Data,Senior
+Sr. Software Engineer in Test,Blackpoint,169830.0,2025-05-12 14:50:32,North America,Engineering,Senior
+Blockchain Security Engineer,Coinbase Careers Page,165852.5,2025-05-12 14:50:18,North America,Data,Other
+Machine Learning Engineer,Floy,51290.08333333333,2025-05-11 06:50:34,Other,Data,Other
+Data Scientist (AI/ML Engineer),N Consulting Ltd,66.5,2025-05-11 02:50:06,Europe,Data,Other
+Software Engineer - AI Evals and Test,P 1ai,114350.83333333331,2025-05-11 00:50:10,Remote,Data,Other
+Software Engineer - Engineering Data Infrastructure,P 1ai,114350.83333333331,2025-05-10 22:50:09,Remote,Engineering,Other
+Senior Endpoint Security Engineer,Clover Health,147500.0,2025-05-09 20:50:35,North America,Engineering,Senior
+Mortgage Application System Developer,Summitfunding,63.745000000000005,2025-05-09 12:50:00,North America,Engineering,Other
+Data Engineer,Runway,245000.0,2025-05-09 04:50:47,Remote,Data,Other
+Sr. Software Engineer,Lyra Health,169830.0,2025-05-09 02:50:14,North America,Engineering,Senior
+Software Engineer II,RegScale,149384.7,2025-05-08 20:50:13,North America,Engineering,Other
+Senior Fullstack Engineer Community Support Engineering,Airbnb,200000.0,2025-05-08 10:50:22,North America,Engineering,Senior
+Senior Backend Engineer,Thaloz,51288.75,2025-05-08 06:50:35,Other,Engineering,Senior
+Senior Software Engineer,Shippo,168250.0,2025-05-08 00:51:02,North America,Engineering,Senior
+Senior Software Engineer - Data,Count,67.73333333333333,2025-05-07 18:51:05,Remote,Engineering,Senior
+Sr./Staff Backend Software Engineer,Fireworkhq,182500.0,2025-05-07 16:50:45,North America,Engineering,Senior
+Sr. Software Engineer,G-P,67.73333333333333,2025-05-07 06:50:10,Asia,Engineering,Senior
+Javascript Engineer,Constructor,100000.0,2025-05-07 00:50:54,Other,Engineering,Other
+Front-End Engineer,Equilibrium Energy,67.73333333333333,2025-05-06 20:51:05,Remote,Engineering,Other
+Senior React Full-stack Developer,Lemon.io,67.73333333333333,2025-05-06 13:41:54,Remote,Engineering,Senior
+Data Engineer,Zeelo,49051.23333333334,2025-05-05 22:50:50,Europe,Data,Other
+System Architect,Addepto,63.15,2025-05-05 12:50:50,Europe,Other,Other
+Senior Software Engineer | Detection Infrastructure,ExtraHop,165000.0,2025-05-05 08:50:05,North America,Engineering,Senior
+Software Engineer II/Senior Software Engineer,Iambic Therapeutics,169830.0,2025-05-05 04:50:56,North America,Engineering,Senior
+Quantitative Trader,Botnet,5050.0,2025-05-04 22:50:17,Remote,Other,Other
+ML & Data Engineer,CommentSold,67.73333333333333,2025-05-04 10:50:39,Asia,Data,Other
+Solutions Engineer,Allium,51290.08333333333,2025-05-04 06:51:06,Other,Engineering,Other
+Engineering Director,OpenX,169830.0,2025-05-03 22:50:58,North America,Management,Other
+Senior Machine Learning Systems Engineer,tvScientific,190000.0,2025-05-03 20:50:24,North America,Data,Senior
+Senior Software Engineer - Artificial Intelligence,Rithum,4407.733333333334,2025-05-03 20:50:24,Europe,Engineering,Senior
+Senior Data Engineer,silver,67.73333333333333,2025-05-03 08:51:03,Latam,Data,Senior
+Junior Data Engineer,Addepto,63.15,2025-05-01 20:50:46,Europe,Data,Junior
+Principal Architect,Affinity.co,250000.0,2025-05-01 16:51:03,North America,Other,Lead
+AI Solutions Specialist,Phoenix Software,67.73333333333333,2025-05-01 04:51:05,Europe,Data,Other
+Full-Stack Software Engineer,Gradient AI,51290.08333333333,2025-04-30 18:50:13,Other,Engineering,Other
+"Data Scientist, Assortment Planning",Literati,175000.0,2025-04-29 16:50:01,North America,Data,Other
+AI Engineer,Persist Ventures,67.73333333333333,2025-04-28 20:50:06,Asia,Data,Other
+Data Science Engineer,Pager Health,132000.0,2025-04-28 04:50:08,North America,Data,Other
+Data Science / Machine Learning Engineer Intern,Demandbase,33064.274,2025-04-27 14:50:14,North America,Data,Intern
+Principal AI/Machine Learning Engineer,Skillsoft,67.73333333333333,2025-04-27 08:50:08,Europe,Data,Lead
+Staff AI API Engineer,SentinelOne,202400.0,2025-04-26 20:50:24,North America,Data,Other
+Staff Infrastructure Engineer,Sotheby's,67.73333333333333,2025-04-26 12:51:12,Europe,Engineering,Other
+Senior Backend Engineer,Cow Dao,66.4,2025-04-26 06:51:06,Europe,Engineering,Senior
+SOC Deployment Engineer,Phoenix Software,67.73333333333333,2025-04-26 06:51:03,Europe,Engineering,Other
+Staff Machine Learning Engineer,Base.org Careers Page,237262.5,2025-04-25 18:50:16,North America,Data,Other
+Staff AI Security Engineer,SentinelOne,191300.0,2025-04-25 12:51:09,North America,Data,Other
+Senior Database Architect,DaCodes,302.7333333333333,2025-04-25 02:50:23,Latam,Other,Senior
+Staff Security Engineer,Inovalon,151800.0,2025-04-24 16:50:19,North America,Engineering,Other
+Fullstack Engineer,Gofasti,2400.0,2025-04-24 12:50:57,Latam,Engineering,Other
+"Senior Flight Dynamics Engineer, Orbits R&D",Planet,158300.0,2025-04-24 06:50:23,North America,Other,Senior
+(Senior) Backend Engineer,TeleClinic GmbH,72.78333333333333,2025-04-24 04:50:22,Europe,Engineering,Senior
+Software Engineering Manager,Vannevar Labs,146800.33333333334,2025-04-23 20:51:09,North America,Engineering,Other
+Senior Software Engineer,Upstart,195000.0,2025-04-23 08:50:56,North America,Engineering,Senior
+Senior Software Engineer,People.ai,15310.666666666666,2025-04-23 04:51:00,Europe,Engineering,Senior
+Senior Client Platform Engineer,Ramp,169830.0,2025-04-22 18:51:03,North America,Engineering,Senior
+"Staff Infrastructure Engineer, Cloud Data Store",Temporal Technologies,210000.0,2025-04-22 10:50:13,North America,Data,Other
+AI Specialist,ConnectOS,6003.833333333334,2025-04-22 02:51:03,Asia,Data,Other
+Senior Backend Engineer,Volatus Health,100.0,2025-04-21 21:15:49,Other,Engineering,Senior
+Mid Level Full Stack Web Developer,Backblaze,67.73333333333333,2025-04-21 16:50:58,Remote,Engineering,Mid
+"Senior/Staff Software Engineer, Development Tools",Waabi,198022.5,2025-04-21 02:50:47,Remote,Engineering,Senior
+Senior Machine Learning Engineer,Paradigm Health,169830.0,2025-04-21 02:50:47,North America,Data,Senior
+Full Stack Developer,Shortpoint,67.73333333333333,2025-04-20 08:50:13,Africa,Engineering,Other
+Software Architect,LanguageWire,4407.733333333334,2025-04-19 04:51:01,Europe,Other,Other
+Senior Cloud Engineer,Click Therapeutics,95.0,2025-04-19 00:50:36,North America,Engineering,Senior
+Back End Software Engineer,Aura,132500.0,2025-04-18 12:50:58,North America,Engineering,Other
+Senior Python Engineer,Primer.ai,195000.0,2025-04-18 04:50:16,North America,Engineering,Senior
+Senior Data Scientist,CUJU,72.78333333333333,2025-04-17 22:50:56,Europe,Data,Senior
+"Software Engineer III, Full Stack",Shippo,169830.0,2025-04-17 18:51:12,North America,Engineering,Other
+Tech Lead / Staff Engineer,360dialog GmbH,67.73333333333333,2025-04-17 10:51:15,Europe,Engineering,Lead
+Senior Product Software Engineer,Hive.co,89450.15,2025-04-15 06:50:58,North America,Engineering,Senior
+Senior Data Engineer,LeanTaaS,169830.0,2025-04-14 18:50:48,North America,Data,Senior
+Senior iOS Engineer,Fay,171230.0,2025-04-13 18:50:13,North America,Engineering,Senior
+Staff Software Architect,Shipwell,165000.0,2025-04-11 22:50:05,North America,Other,Other
+Senior Machine Learning Engineer,Haus,169830.0,2025-04-11 22:50:04,North America,Data,Senior
+Senior Go Software Engineer,Synthflow,51290.08333333333,2025-04-11 06:51:04,Other,Engineering,Senior
+Backend Software Engineer,Descript,200000.0,2025-04-10 20:50:46,North America,Engineering,Other
+Senior C++ Engineer,Eyeo,67.73333333333333,2025-04-10 06:50:45,Europe,Engineering,Senior
+Senior Software Engineer,Mozilla,121500.0,2025-04-09 20:50:05,North America,Engineering,Senior
+Data Scientist,Bombora,78750.0,2025-04-09 18:50:56,North America,Data,Other
+Sr. Software Engineer,Crogl,169830.0,2025-04-09 18:50:54,North America,Engineering,Senior
+"Lead Applied Scientist, Computer Vision",SafelyYou,89450.15,2025-04-08 16:51:09,North America,Other,Lead
+Financial Data Engineer,Automattic Careers,120000.0,2025-04-08 02:51:08,Other,Data,Other
+Data Science Manager,Lime,114350.83333333331,2025-04-08 02:51:07,Remote,Data,Other
+Lead Fullstack Software Engineer,"Nada, Inc.",150000.0,2025-04-07 14:50:56,North America,Engineering,Lead
+Machine Learning Engineer,Artera,169830.0,2025-04-06 00:51:05,North America,Data,Other
+Senior Software Engineer,Zencore,15314.9,2025-04-04 20:51:04,Europe,Engineering,Senior
+Data Scientist - Machine Learning,Blue Rose Research,150000.0,2025-04-02 16:50:42,North America,Data,Other
+Senior Engineering Manager,Airbnb,282000.0,2025-04-01 14:50:53,North America,Management,Senior
+Lead Machine Learning Scientist,OneSix - External,114350.83333333331,2025-04-01 14:50:52,Remote,Data,Lead
+Senior Data Scientist,Included Health,228905.0,2025-04-01 14:50:49,North America,Data,Senior
+Senior Software Engineer,Bswift LLC,122500.0,2025-03-31 14:50:44,North America,Engineering,Senior
+Solution Engineer,Domino Data Lab,170000.0,2025-03-31 14:50:41,North America,Engineering,Other
+Senior Data Scientist,Tali AI,89450.15,2025-03-30 12:50:12,North America,Data,Senior
+Senior Software Engineer,21bitcoin,80.0,2025-03-29 16:51:11,Europe,Engineering,Senior
+Technical Chief of Staff,Wyndlabs,135.0,2025-03-28 02:50:55,North America,Management,Other
+Infrastructure Software Engineer,Dropbox,215200.0,2025-03-26 06:50:05,North America,Engineering,Other
+Senior Backend Engineer,DoiT,66.4,2025-03-25 16:50:21,Europe,Engineering,Senior
+Senior Backend Software Developer,Varicent,67.73333333333333,2025-03-25 10:51:10,Latam,Engineering,Senior
+Senior Full-Stack Engineer,Public,169830.0,2025-03-25 02:50:43,North America,Engineering,Senior
+Senior Software Engineer,KnowBe4,15314.9,2025-03-24 20:51:07,Europe,Engineering,Senior
+Senior Software Engineer,Partnerize,15314.9,2025-03-24 06:50:11,Europe,Engineering,Senior
+"Senior Software Engineer, Data Infrastructure",Ro,193300.0,2025-03-24 04:50:18,North America,Engineering,Senior
+Machine Learning Implementation Engineer,OfferFit,67.73333333333333,2025-03-21 04:50:42,Remote,Data,Other
+Senior Data Scientist,The Internet of Behaviors Company,67.73333333333333,2025-03-20 04:50:55,Africa,Data,Senior
+"Senior Software Engineer, Registry",Wandb,169830.0,2025-03-19 16:50:54,North America,Engineering,Senior
+Fullstack Software Engineer - User Experience,Rithum,67.73333333333333,2025-03-18 16:50:58,Europe,Engineering,Other
+Full Stack Engineer,Penbrothers,6003.833333333334,2025-03-18 08:50:48,Asia,Engineering,Other
+Junior Data Engineer,Growe,51290.08333333333,2025-03-16 16:50:14,Other,Data,Junior
+Identity Infrastructure Engineer,Techholding,71.08333333333334,2025-03-15 20:50:50,Latam,Engineering,Other
+Senior Software Engineer,"Clarity Financial, Inc.",168250.0,2025-03-15 14:51:06,North America,Engineering,Senior
+Staff Engineer/Senior Technical Lead,Space Inch,4600.0,2025-03-15 00:50:59,Europe,Other,Senior
+Senior Machine Learning Engineer II,Apollo.io,67.73333333333333,2025-03-14 00:50:46,Asia,Data,Senior
+Senior Data Scientist,Vantage Analytics,89450.15,2025-03-12 06:50:48,North America,Data,Senior
+"Member of Technical Staff, Training Infra Engineer",Cohere,67.73333333333333,2025-03-11 20:50:33,Remote,Data,Other
+Senior Software Engineer,Place Exchange,71668.65,2025-03-11 04:50:12,North America,Engineering,Senior
+Software Engineer II,Fearless,151849.0,2025-03-10 22:50:37,North America,Engineering,Other
+Back End Developer,Game Plan Tech,169830.0,2025-03-09 20:50:50,North America,Engineering,Other
+Data Engineer,Mitiga Solutions,49051.23333333334,2025-03-09 00:51:02,Europe,Data,Other
+Software Developer,Hive.co,89450.15,2025-03-08 20:50:16,North America,Engineering,Other
+Senior Biostatistician / Data Scientist,PicnicHealth,165.0,2025-03-07 18:50:57,North America,Data,Senior
+Data Scientist,Thalamusgme,230000.0,2025-03-05 18:50:08,North America,Data,Other
+Senior Software Engineer,Augment,168250.0,2025-03-05 16:50:52,North America,Engineering,Senior
+Prompt Engineer,Forhyre,112500.0,2025-03-04 16:50:46,North America,Engineering,Other
+Data Integrations Engineer,Timely,16550.440666666665,2025-02-27 12:50:09,North America,Data,Other
+Staff Data Platform Engineer,ClassDojo,192250.0,2025-02-27 10:50:50,Other,Data,Other
+Senior Data Engineer,Opendoor,67.73333333333333,2025-02-26 00:50:53,Asia,Data,Senior
+Senior Localization Engineer,Lilt,67.73333333333333,2025-02-22 20:50:16,Remote,Engineering,Senior
+Sr. Software Engineer - React Native and Front End,Parkade,169830.0,2025-02-19 22:50:44,North America,Engineering,Senior
+Senior Backend Developer (Node.js),Tether,51290.08333333333,2025-05-13 12:46:44,Other,Engineering,Senior
+Integrations Tech Lead,Carefeed,169830.0,2025-05-12 14:50:44,North America,Other,Lead
+"Engineering Manager, Analytics",Lattice,211000.0,2025-05-12 14:50:43,North America,Other,Other
+Software Engineer,Anthropic,362500.0,2025-05-12 14:50:41,North America,Engineering,Other
+Director of Engineering,Hi Rasmus Inc.,80.0,2025-05-12 14:50:40,Europe,Management,Other
+"Senior Gameplay Programmer, AI",Insomniac Games,91.37,2025-05-12 14:50:35,North America,Data,Senior
+Senior Software Engineer C++,Tether,51290.08333333333,2025-05-11 12:45:49,Other,Engineering,Senior
+Senior Fullstack/Frontend Engineer,IronArch Technology,169830.0,2025-05-10 12:50:11,North America,Engineering,Senior
+WordPress Developer,Solvd,67.73333333333333,2025-05-10 08:50:51,Remote,Engineering,Other
+Software Configuration Specialist II - Policy,LE008 Duck Creek Technologies India LLP,67.73333333333333,2025-05-10 04:50:55,Asia,Other,Other
+Salesforce Developer,SafeGuard World Payroll Services Private Limited (India),67.73333333333333,2025-05-10 04:50:55,Remote,Engineering,Other
+iOS Developer,nooro,95.0,2025-05-09 21:15:41,North America,Engineering,Other
+"Manager, Software Development",Workleap,89450.15,2025-05-09 20:50:36,North America,Other,Other
+Engineering Manager,Hims And Hers,169830.0,2025-05-09 10:50:18,North America,Management,Other
+Head of Research & Development (AI / Computer Vision),Panoptyc,350.0,2025-05-09 02:50:14,North America,Management,Other
+iOS Developer,Teamified,67.73333333333333,2025-05-09 00:50:18,Asia,Engineering,Other
+Sr Software Security Lead Engineer,Accela,67.73333333333333,2025-05-08 20:50:12,Latam,Engineering,Senior
+Data Engineer,(Re)vive,155000.0,2025-05-08 04:50:11,North America,Data,Other
+Frontend Engineer,Cmgx,306.08333333333337,2025-05-08 00:51:01,Latam,Engineering,Other
+Java Full-Stack Developer,Powdevs,302.7333333333333,2025-05-07 22:50:36,Latam,Engineering,Other
+"Senior Developer, Back End(Ruby) - Discovery",Fullscript,89450.15,2025-05-07 08:50:09,North America,Other,Senior
+Senior Angular Frontend Developer,MyTime,169830.0,2025-05-07 02:50:55,North America,Engineering,Senior
+Software Engineer,Scout AI,262521.15,2025-05-07 00:50:54,Other,Engineering,Other
+Senior Go Engineer,OnHires,51290.08333333333,2025-05-06 02:50:06,Other,Engineering,Senior
+Senior Software Engineer II,SurveyMonkey,89450.15,2025-05-05 22:50:49,North America,Engineering,Senior
+Senior Shopify Developer,Proxify,65.0,2025-05-05 15:30:56,Other,Engineering,Senior
+"Software Engineer, Kotlin - AI Training",Alignerr,82.5,2025-05-05 12:50:51,North America,Data,Other
+Senior Full-Stack Developer,PurposeMed,120000.0,2025-05-05 00:50:52,North America,Engineering,Senior
+"Engineering Lead, AI Product",The Browser Company,280000.0,2025-05-04 22:50:17,North America,Data,Lead
+Architect,3Cloud,126050.0,2025-05-04 22:50:13,North America,Other,Other
+Senior Full Stack Engineer,Humi,89450.15,2025-05-04 10:50:40,North America,Engineering,Senior
+Salesforce Engineering Manager,Splitero,165000.0,2025-05-03 20:50:23,North America,Management,Other
+Staff Backend Engineer - Grafana App Platform,Grafana Labs,100415.0,2025-05-03 08:51:02,Europe,Engineering,Other
+Software Engineer,Wincent,450000.0,2025-05-03 04:50:40,Europe,Engineering,Other
+Senior Software Engineer,Well,165000.0,2025-05-02 20:51:10,North America,Engineering,Senior
+Senior JavaScript Engineer,Varicent,67.73333333333333,2025-05-02 18:51:00,Latam,Engineering,Senior
+Data Engineer (gRPC) - Early Team,Meetsta,169830.0,2025-05-02 18:50:59,North America,Data,Other
+"Senior JavaScript Engineer – React, Node & GraphQL",Varicent,67.73333333333333,2025-05-02 18:50:59,Latam,Engineering,Senior
+Solutions Engineer,Tapcart,130000.0,2025-05-02 06:51:02,North America,Engineering,Other
+Node.js Engineer,Harper,150000.0,2025-05-02 02:51:03,North America,Engineering,Other
+Senior Software Engineer,Contra,185.0,2025-05-01 18:03:50,North America,Engineering,Senior
+Senior Software Engineer,"NewRocket, Inc.",71668.65,2025-05-01 16:51:04,North America,Engineering,Senior
+"Senior Developer, Backend(Ruby) - Practitioners Onboarding",Fullscript,89450.15,2025-05-01 16:51:03,North America,Engineering,Senior
+Senior Software Engineer,Airtasker,15316.75,2025-05-01 04:51:03,Europe,Engineering,Senior
+Founding Software Engineer,Kalos,169830.0,2025-05-01 00:50:28,North America,Engineering,Other
+"Domain Consultant (Systems Engineer), Network Security",Palo Alto Networks,63.15,2025-04-30 04:50:52,Europe,Data,Other
+Principal Data Scientist,SEEK,67.73333333333333,2025-04-30 02:51:07,Oceania,Data,Lead
+Senior Data Architect,Abnormal,89450.15,2025-04-29 22:51:11,North America,Data,Senior
+No Code Developer,Contra,46.66666666666666,2025-04-29 17:06:15,Other,Engineering,Other
+Senior Frontend Engineer,LTG,1.7,2025-04-29 12:50:50,Europe,Engineering,Senior
+Engineering Manager,Kin,169830.0,2025-04-29 08:50:54,North America,Management,Other
+Staff Android Engineer,TextNow,114350.83333333331,2025-04-29 06:50:47,Remote,Engineering,Other
+Autonomy Engineer - Map Systems,Glydways,169830.0,2025-04-29 04:50:22,North America,Engineering,Other
+Software Developer II,Valsoft Corporation Inc.,169830.0,2025-04-29 04:50:19,North America,Engineering,Other
+Senior Ruby on Rails Developer,Proxify,57.5,2025-04-28 15:56:13,Other,Data,Senior
+Senior Engineering Lead,Very Good Ventures,180.0,2025-04-28 08:50:24,North America,Other,Senior
+Senior SIEM Engineer,Coalfire,169830.0,2025-04-27 18:50:45,North America,Engineering,Senior
+Front-End Web Developer,Xapo Bank,51290.08333333333,2025-04-27 08:50:08,Other,Engineering,Other
+Senior Android Software Engineer,Skylight,221.5,2025-04-26 07:53:55,North America,Engineering,Senior
+Senior Full Stack Developer,Ubiminds,67.73333333333333,2025-04-26 00:50:47,Latam,Engineering,Senior
+Staff Software Engineer,Headspace Sourcing,177020.0,2025-04-25 06:51:14,North America,Engineering,Other
+Senior Application Security Engineer,Fortis Games,89450.15,2025-04-24 22:51:14,North America,Engineering,Senior
+Engineering Manager,Cookunity,67.73333333333333,2025-04-24 10:50:32,Latam,Management,Other
+Staff Software Engineer,Ramp,114350.83333333331,2025-04-24 00:50:54,Remote,Engineering,Other
+"Senior Software Engineer, Developer Experience",Vanta,169830.0,2025-04-23 12:50:18,North America,Engineering,Senior
+"Tech Lead, Wikidata Platform",Wikimedia Foundation,165085.5,2025-04-23 02:51:15,Remote,Other,Lead
+Web Designer (Framer),Contra,58.333333333333336,2025-04-22 19:54:24,Other,Design,Other
+Senior Front End Developer,Missive,125.0,2025-04-22 18:23:13,Remote,Engineering,Senior
+Full Stack Senior Developer,artlogic Staffpool GmbH,67.73333333333333,2025-04-22 14:50:32,Europe,Engineering,Senior
+Senior Full-Stack .NET Developer,Wordwall,50.0,2025-04-22 06:51:07,Europe,Engineering,Senior
+Full Stack Developer,Practice Better,114350.83333333331,2025-04-21 20:50:39,Remote,Engineering,Other
+Senior Developer,Veeam Software,63.15,2025-04-21 06:50:58,Europe,Engineering,Senior
+Senior Developer,Togetherwork,102000.0,2025-04-20 16:50:47,North America,Engineering,Senior
+Senior Backend Engineer,Bee Talents,16.666666666666668,2025-04-20 12:50:39,Europe,Engineering,Senior
+iOS Team Lead,OBRIO,67.73333333333333,2025-04-20 04:50:58,Europe,Other,Lead
+BigCommerce Developer,Getwingapp,25000.0,2025-04-20 00:50:51,Asia,Engineering,Other
+Backend PHP-Developer,Local Brand X GmbH,72.98333333333333,2025-04-20 00:50:51,Europe,Engineering,Other
+"Director, Engineering",Movable Ink,262500.0,2025-04-19 14:50:57,North America,Management,Other
+"Senior Software Engineer II, Caregiver Experience",Springhealth,198825.0,2025-04-19 06:50:42,North America,Engineering,Senior
+Software Engineer,Cresta,252526.9833333333,2025-04-18 20:50:13,Europe,Engineering,Other
+Senior Microsoft PowerBI Developer,Proxify,65.0,2025-04-18 07:31:11,Other,Engineering,Senior
+Senior Full Stack Engineer,Provectus,169830.0,2025-04-17 22:50:54,North America,Engineering,Senior
+"Engineering Manager, Applied Machine Learning",Yurts,247500.0,2025-04-17 22:50:54,North America,Data,Other
+Senior Java Developer (m/w/d),42matches GmbH,81.5,2025-04-17 12:28:46,Europe,Engineering,Senior
+Application Security Engineer,Sigma Software,67.73333333333333,2025-04-17 04:50:06,Europe,Engineering,Other
+Senior Performance Engineer,Cribl,180000.0,2025-04-16 22:50:29,North America,Engineering,Senior
+Solution Engineer,NeuraFlash,173330.0,2025-04-16 22:50:28,North America,Engineering,Other
+Senior Independent Software Developer,A.Team,120.0,2025-04-16 10:15:41,Remote,Engineering,Senior
+C# Developer,Paramo Technologies,67.73333333333333,2025-04-16 08:51:00,Remote,Engineering,Other
+Front-End Typescript Engineer,Outwork Staffing,3250.0,2025-04-16 08:50:59,Asia,Engineering,Other
+Full Stack Developer,ARHS,67.73333333333333,2025-04-15 20:51:19,Europe,Engineering,Other
+"Manager, Graphics Engineering",Unity Technologies,181600.0,2025-04-15 14:50:50,North America,Other,Other
+ERP Integration Consultant,Keywords Studios,6003.833333333334,2025-04-15 14:50:49,Asia,Other,Other
+Senior Magento Developer,Proxify,62.5,2025-04-14 16:16:31,Other,Engineering,Senior
+Principal Data Scientist,Mission Lane,203500.0,2025-04-14 10:51:10,North America,Data,Lead
+Senior Blockchain developer,TechMagic,67.73333333333333,2025-04-14 02:50:33,Europe,Data,Senior
+Senior Kernel Engineer,Halcyon,153336.66666666666,2025-04-13 08:50:57,North America,Engineering,Senior
+Middle .NET Developer,Sigma Software,67.73333333333333,2025-04-13 00:51:01,Europe,Engineering,Other
+"Senior Backend Engineer, Growth",Moonpay,67.73333333333333,2025-04-12 06:51:48,Remote,Engineering,Senior
+Senior Software Engineer II,ActBlue,192208.66666666663,2025-04-11 06:51:01,North America,Engineering,Senior
+Mobile Software Engineer,Level Access,302.7333333333333,2025-04-11 06:51:01,Latam,Engineering,Other
+Expert Software Engineer,Veradigm Asia,67.73333333333333,2025-04-10 20:50:47,Asia,Engineering,Senior
+Senior Software Engineer,Confluence,19654.9,2025-04-10 06:50:45,Europe,Engineering,Senior
+"Engineering Manager, Platform - Cloud Infrastructure",Valon,240000.0,2025-04-10 06:50:44,North America,Other,Other
+Staff Software Engineer,Dropbox,254700.0,2025-04-09 04:50:49,North America,Engineering,Other
+Java Engineer,Neo Group,67.73333333333333,2025-04-09 04:50:48,Europe,Engineering,Other
+Software Engineer,Oneapp,175000.0,2025-04-08 16:51:10,North America,Engineering,Other
+Frontend Engineer,Drivetrain,169830.0,2025-04-08 16:51:10,North America,Engineering,Other
+Engineering Manager,Snapsheet,169830.0,2025-04-08 16:51:06,North America,Management,Other
+Software Engineer II Windows,Learneo,71500.0,2025-04-08 02:51:06,Remote,Engineering,Other
+Senior Platform Engineer,Omada Health,201850.0,2025-04-07 16:50:40,North America,Engineering,Senior
+Engineering Manager,Masabi,67.73333333333333,2025-04-07 00:50:57,Latam,Management,Other
+Head of Developer Ecosystem,Thrive Protocol,169830.0,2025-04-07 00:50:55,North America,Management,Other
+"Director, Software Engineering",G-P,67.73333333333333,2025-04-07 00:50:54,Europe,Management,Other
+Senior Go Platform Engineer,Omni Network,67.73333333333333,2025-04-05 22:50:13,Remote,Engineering,Senior
+Senior Embedded Systems Engineer,Inspiren,175000.0,2025-04-05 22:50:11,North America,Engineering,Senior
+Senior Software Engineer,Leonardo.Ai,15314.9,2025-04-05 22:50:10,Oceania,Engineering,Senior
+Software Engineer II,Built Technologies,132500.0,2025-04-05 12:51:05,North America,Engineering,Other
+Founding Engineer,Roadforge,130.0,2025-04-05 02:50:58,North America,Engineering,Other
+Staff Software Engineer,Solace,175970.0,2025-04-04 22:50:54,North America,Engineering,Other
+Engineering Manager,Solace,169830.0,2025-04-04 20:51:05,North America,Management,Other
+Senior Backend Developer,Droids On Roids,63.15,2025-04-04 20:51:04,Europe,Engineering,Senior
+Salesforce Solutions Engineer,Tekton Labs,302.7333333333333,2025-04-04 12:50:11,Latam,Engineering,Other
+Senior Backend Developer,Lodgify,4411.083333333334,2025-04-03 18:51:03,Europe,Engineering,Senior
+Senior Typescript Developer,SIDESTREAM,72.78333333333333,2025-04-03 18:51:03,Europe,Engineering,Senior
+Java Back-End Engineer,Trustly,67.73333333333333,2025-04-03 18:51:01,Latam,Engineering,Other
+Senior Platform Engineer,Qdrant,72.78333333333333,2025-04-02 18:50:42,Europe,Engineering,Senior
+iOS Developer,Applaudo Studios,302.7333333333333,2025-04-02 16:50:42,Latam,Engineering,Other
+Senior Software Engineer,Pulumicorporation,187500.0,2025-04-02 16:50:40,North America,Engineering,Senior
+"Mid Level, Front End Engineer",INGENIOUS.BUILD,13000.0,2025-04-01 18:50:56,Europe,Engineering,Mid
+Senior Microsoft Dynamics 365 (D365) Developer,Sylogist,169830.0,2025-04-01 14:50:56,North America,Engineering,Senior
+"Senior Full Stack Engineer, EverPresence AI Experience",Rocket Money,167500.0,2025-04-01 14:50:55,North America,Data,Senior
+Senior Salesforce Developer,ciandt,67.73333333333333,2025-03-31 14:50:42,Latam,Engineering,Senior
+Staff Software Engineer C++ / Computer Vision,Abbyy,158500.0,2025-03-31 14:50:41,North America,Engineering,Other
+Full Stack Engineer: Searchandizing Team,Constructor,100.0,2025-03-31 14:50:39,Europe,Other,Other
+Senior Frontend Engineer,Inspiration Commerce Group,961.5733333333334,2025-03-30 12:50:12,Europe,Engineering,Senior
+.NET Software Architect,DoseSpot,169830.0,2025-03-30 00:50:57,North America,Other,Other
+Graphics Engine Software Engineer,Zoo,169830.0,2025-03-28 20:50:53,North America,Engineering,Other
+Web3 Core Engineer,Brave,51290.08333333333,2025-03-28 08:51:16,Other,Engineering,Other
+Solutions Architect,Dynamic,169830.0,2025-03-27 06:51:06,North America,Other,Other
+Senior Android Engineer,Acorns,200800.0,2025-03-26 22:51:00,North America,Engineering,Senior
+Senior Solutions Architect,GoFundMe,156000.0,2025-03-24 08:51:07,North America,Other,Senior
+"Sr. Engineering Manager, Data Platform",Haus,169830.0,2025-03-24 00:50:37,North America,Data,Senior
+Design Systems Engineer,Magicschool,169830.0,2025-03-23 20:50:40,North America,Engineering,Other
+Senior Fullstack Engineer,Earnin,67.73333333333333,2025-03-23 12:51:20,Latam,Engineering,Senior
+Full Stack Developer,Solink,89450.15,2025-03-23 08:50:20,North America,Engineering,Other
+Senior Software Engineer,Casechek,62500070.0,2025-03-23 04:51:01,North America,Engineering,Senior
+Front-End Engineer,Harper,162500.0,2025-03-22 12:51:02,North America,Engineering,Other
+Senior Product Engineer,ICE,67.73333333333333,2025-03-22 06:51:02,Remote,Product,Senior
+Senior Machine Learning Engineer - Hardware Abstractions & Performance Optimization,Luma Ai,169830.0,2025-03-22 06:51:02,North America,Data,Senior
+C++ Developer,Veeam Software,63.15,2025-03-21 22:50:24,Europe,Engineering,Other
+Senior Software Engineer,Prompt,168250.0,2025-03-21 18:50:35,North America,Engineering,Senior
+Solution Architect,Neurons Lab.com,67.73333333333333,2025-03-21 10:51:10,Remote,Other,Other
+Senior Software Engineer,Lwolf,15314.9,2025-03-20 20:50:35,Latam,Engineering,Senior
+Senior iOS Engineer,Instacart,189500.0,2025-03-20 16:51:11,North America,Engineering,Senior
+Sr Data Architect,Recargapay,67.73333333333333,2025-03-20 02:50:15,Latam,Data,Senior
+Data Scientist,Goodparty,52.5,2025-03-19 00:50:40,North America,Data,Other
+Senior Salesforce Developer,Workana,302.7333333333333,2025-03-17 12:50:10,Latam,Engineering,Senior
+Staff Software Engineer,Lime,89450.15,2025-03-17 04:50:15,North America,Engineering,Other
+Software Engineer,Lucidworks,252526.9833333333,2025-03-16 04:51:02,Latam,Engineering,Other
+Protocol Engineer,Conduit,169830.0,2025-03-15 00:51:00,North America,Engineering,Other
+"Senior Full Stack Engineer, Card Catalyst",Rocket Money,167500.0,2025-03-14 12:50:44,North America,Other,Senior
+"Tech Lead, Data Platform",Elitetechnology,170000.0,2025-03-12 22:51:11,North America,Data,Lead
+Senior Full-Stack Engineer,Amplio,169830.0,2025-03-12 14:50:10,North America,Engineering,Senior
+Staff/Principal Level Engineer,Quotewell,169830.0,2025-03-12 00:50:41,North America,Engineering,Lead
+Senior Software Engineer,DNSfilter,152500.0,2025-03-10 18:50:56,Other,Engineering,Senior
+Staff Software Development Engineer,"ShipBob, Inc.",67.73333333333333,2025-03-10 02:50:38,Asia,Engineering,Other
+Software Development Engineer II - Full Stack,"ShipBob, Inc.",67.73333333333333,2025-03-09 00:51:02,Asia,Engineering,Other
+Lead AI-Accelerated Application Modernization Engineer,liatrio,185000.0,2025-03-07 22:50:37,Remote,Data,Lead
+Senior Data Engineer,BlackStone eIT,67.73333333333333,2025-03-07 22:50:36,Asia,Data,Senior
+Senior .NET Developer,Ardanis,73.75,2025-03-04 16:50:48,Europe,Engineering,Senior
+Frontend Software Engineer,Astronomer,140000.0,2025-03-03 14:50:20,North America,Engineering,Other
+"Manager, Software Engineering",Apollo GraphQL,169830.0,2025-02-28 18:50:38,North America,Engineering,Other
+Senior Software Engineer,Getpluto,15314.9,2025-02-20 16:50:20,Remote,Engineering,Senior
+Senior Software Engineer - Production Support,"DIGITAL HARBOR, Inc.",132500.0,2025-02-20 16:50:19,North America,Engineering,Senior
+"Data Analyst, Autonomy",Serve Robotics,121389.0,2025-05-12 18:51:04,Remote,Data,Other
+Solutions Analyst,YipitData,62500075.0,2025-05-09 08:50:40,North America,Data,Other
+Data Analyst,Cube Asia,36791.65,2025-05-08 18:51:00,Remote,Data,Other
+Senior Data Analytics Engineer,Fullscript,110962.15,2025-05-08 06:50:42,North America,Data,Senior
+Senior HEOR Analyst,Innovaccer,149150.0,2025-05-05 04:51:07,North America,Data,Senior
+"Senior Data Analyst, Life Sciences",PointClickCare,103350.0,2025-05-04 04:50:43,Remote,Data,Senior
+Staff Data Analyst,Pearl Health,170000.0,2025-05-02 18:51:20,North America,Data,Other
+Data Tech Lead,Viseven,35645.65,2025-04-30 08:50:14,Europe,Data,Lead
+Reporting and Metrics Analyst,Deepseas,67381.0,2025-04-29 16:50:30,Other,Data,Other
+Head of Forecasting,Rentable,149150.0,2025-04-29 06:50:57,North America,Management,Other
+Business Analyst,Trinetix,33145.65,2025-04-29 06:50:57,Europe,Data,Other
+Senior Business Intelligence Engineer,Automattic Careers,140000.0,2025-04-27 02:51:08,North America,Engineering,Senior
+HR Data Analyst,Virta Health,100257.5,2025-04-26 14:50:38,North America,Data,Other
+Senior Insights Analyst,Dropbox,178000.0,2025-04-25 18:50:41,North America,Data,Senior
+Senior Data Analyst,Earnin,35645.65,2025-04-25 12:51:34,Latam,Data,Senior
+Senior Business Analytics Consultant,Shyftlabs,110962.15,2025-04-24 16:50:46,North America,Other,Senior
+Junior Financial Research Associate,YipitData,25014111.65,2025-04-24 06:50:47,Latam,Other,Junior
+Senior Data Analyst,Placer.ai,35645.65,2025-04-23 20:52:13,Latam,Data,Senior
+Principal Market Analyst,Plus Power,130000.0,2025-04-22 18:51:28,North America,Data,Lead
+Director of Data Management & Analytics,Blueland,202500.0,2025-04-22 04:50:13,North America,Management,Other
+Business Intelligence Analyst,AdsKeeper,43091.65,2025-04-17 06:51:25,Other,Data,Other
+Senior Analyst - A/B Testing & Web Analytics,Kaufland e-commerce,35645.65,2025-04-17 06:51:24,Europe,Data,Senior
+Senior Data Analyst,Atlan,35645.65,2025-04-15 08:50:33,Asia,Data,Senior
+Data Analyst,Flyer One Ventures,36791.65,2025-04-14 06:50:58,Europe,Data,Other
+Revenue Operations Analyst,Nivoda,540.0,2025-04-13 08:51:17,Africa,Data,Other
+Analytics Engineer,Addi.,35645.65,2025-04-10 00:50:09,Latam,Engineering,Other
+BI & Data Analyst,Omilia,35645.65,2025-04-09 02:51:12,Europe,Data,Other
+Principal Analyst,Fortis Games,149150.0,2025-04-08 06:51:13,North America,Data,Lead
+AI Data Analyst,Rock Bund Capital,149150.0,2025-04-07 08:50:28,North America,Data,Other
+Analytics Engineer II,Spark Advisors,135000.0,2025-04-06 06:51:24,North America,Engineering,Other
+Staff Product Analyst,Ethos Life,184500.0,2025-04-06 02:51:16,North America,Product,Other
+Senior Energy Data Analyst,EnergyHub,130000.0,2025-04-04 02:51:03,North America,Data,Senior
+Senior ITDR Threat Intelligence Analyst,Huntress,82500.0,2025-04-04 02:51:03,North America,Data,Senior
+Data Analyst,Landbot,43500.0,2025-04-03 20:50:33,Europe,Data,Other
+Healthcare Data Analytics Manager,FlexTal Staffing LLC,35645.65,2025-04-03 00:50:40,Latam,Data,Other
+Data Analyst,Archive,134743.0,2025-03-31 20:51:00,North America,Data,Other
+Product Analyst - Navigator,Addepar,114000.0,2025-03-27 02:51:22,North America,Product,Other
+Data Analyst,iSpot.tv,97965.0,2025-03-23 02:51:00,North America,Data,Other
+Senior Data Analyst,The Internet of Behaviors Company,35645.65,2025-03-22 00:51:33,Africa,Data,Senior
+Senior Insight Analyst,UNiDAYS Ltd,35645.65,2025-03-20 22:51:28,Europe,Data,Senior
+Sr. Product Analytics Manager,Rula,149150.0,2025-03-07 16:50:26,North America,Product,Senior
+Data Analyst,Autone,18458.0,2025-05-12 18:51:06,Other,Data,Other
+"Senior Manager, Statistical Programming",AbbVie,149150.0,2025-05-12 18:51:00,North America,Other,Senior
+Business Analyst,InfyStrat,11662.0,2025-05-10 08:51:00,Asia,Data,Other
+Principal Data and AI Strategy,PhData,149150.0,2025-05-09 22:50:17,North America,Data,Lead
+"Manager, Global Item Master Data",Paula's Choice Skincare,110000.0,2025-05-09 20:50:50,North America,Data,Other
+Part-Time Analyst - Social Listening & Insights,Mutiny,35.0,2025-05-09 12:50:06,North America,Data,Other
+Staff Data Analyst,AlphaSense,149000.0,2025-05-08 20:50:33,North America,Data,Other
+Security Data Analyst,KPMG Australia,35645.65,2025-05-07 18:51:30,Oceania,Data,Other
+Data Quality Engineer,Mindera,35645.65,2025-05-07 16:50:53,Remote,Data,Other
+"Senior Manager, Data Modernization",Harbor,121389.0,2025-05-07 08:50:18,Remote,Data,Senior
+Healthcare Economics Analyst,Honest Health,82300.0,2025-05-07 06:50:20,North America,Data,Other
+Pricing Analyst,Henry Schein,149150.0,2025-05-06 06:51:14,North America,Data,Other
+"Director, Business Insights",Iterable,208750.0,2025-05-04 16:50:56,North America,Management,Other
+Education Data Architect,Stellic,112500.0,2025-05-03 14:50:57,North America,Data,Other
+Business Analyst,Surgimate,90000.0,2025-05-03 04:50:50,North America,Data,Other
+Data Architect,Inetum,39985.65,2025-05-02 12:50:49,Europe,Data,Other
+Data Analyst,Devsavant,36977.65,2025-05-02 02:51:24,Latam,Data,Other
+Financial Crime Data Analyst,Capitex,14162.0,2025-05-01 18:50:14,Europe,Data,Other
+"Manager, Data Governance & BI",Avetta,143000.0,2025-05-01 14:51:31,North America,Data,Other
+"Senior Analyst, Analytics Operations",Calendly,189550.0,2025-05-01 10:51:04,North America,Other,Senior
+Data Analyst,Gen3 Marketing LLC,134743.0,2025-05-01 00:50:44,North America,Data,Other
+Junior Risk Analyst,Tabby,67381.0,2025-04-30 16:51:25,Other,Data,Junior
+Lead Billing Strategy & Systems Analyst,Natera,151750.0,2025-04-28 04:50:23,North America,Data,Lead
+Business Analyst,tbi bank,33145.65,2025-04-27 16:51:04,Europe,Data,Other
+Business Analyst,Elitetechnology,115000.0,2025-04-25 08:51:18,Remote,Data,Other
+Senior Director of Business Intelligence and Strategic Analytics,Foodsmart,149150.0,2025-04-20 12:51:03,North America,Management,Senior
+Revenue Intelligence Analyst,Jampp,35645.65,2025-04-19 10:50:23,Latam,Data,Other
+Senior Data Analyst- Business Intelligence,dbt Labs,35645.65,2025-04-19 10:50:23,Latam,Data,Senior
+"Sr Data Analyst, Talent Acquisition Operations",Abnormal,132500.0,2025-04-19 06:51:13,North America,Data,Senior
+"Associate Director, Analytics",Barkley,149150.0,2025-04-18 08:50:54,North America,Management,Mid
+Sr. Manager of Data,MeridianLink,201950.0,2025-04-17 10:51:55,North America,Management,Senior
+Senior Analytics Engineer,Lime,110962.15,2025-04-16 08:51:36,North America,Engineering,Senior
+Analytics Engineer,Atlan,35645.65,2025-04-14 10:51:26,Asia,Engineering,Other
+Senior Analyst,Medium,190000.0,2025-04-12 00:50:51,North America,Data,Senior
+Senior Azure Data Consultant,Trility,149150.0,2025-04-11 00:51:07,North America,Data,Senior
+"Senior Analyst, Ads & Promotions Insights - Strategy & Operations",DoorDash Mexico,35645.65,2025-04-10 08:51:18,Latam,Other,Senior
+Business Analyst,Buyers Edge Platform,145900.0,2025-04-09 08:50:47,North America,Data,Other
+Analytics Manager,Collectors,156000.0,2025-04-08 10:50:36,North America,Management,Other
+Lead Business Analyst,Aker Systems,35645.65,2025-04-07 04:50:54,Europe,Data,Lead
+Senior Data Analyst,Headspace,158950.0,2025-04-05 22:50:41,North America,Data,Senior
+Customer Data Platform Lead,Sotheby's,149150.0,2025-04-04 20:51:50,North America,Data,Lead
+Staff Business Intelligence Engineer,Headspace Sourcing,175500.0,2025-04-04 00:50:04,North America,Engineering,Other
+Data Analyst,G-P,36791.65,2025-04-02 22:50:48,Latam,Data,Other
+Senior Forecast Analyst,Quince,120000.0,2025-03-28 20:51:10,North America,Data,Senior
+Actuarial Analyst,InterWell Health,149150.0,2025-03-26 06:50:12,North America,Data,Other
+Data Visualization Engineer,Cuesta Partners LLC,35831.65,2025-03-24 04:50:40,Latam,Data,Other
+Director of Business Insights,OLIPOP,162500.0,2025-03-22 00:51:32,North America,Management,Other
+Marketing Data & Operations Analyst,Growthassistant,75000.0,2025-03-17 14:51:54,Other,Marketing,Other
+Senior Analytics Engineer,Stellar Health,170000.0,2025-03-08 18:50:37,North America,Engineering,Senior
+Data Analyst,Kyivstar,36791.65,2025-02-27 10:51:07,Europe,Data,Other
+Analytics Engineer,Power Digital,35645.65,2025-02-26 12:51:14,Latam,Engineering,Other

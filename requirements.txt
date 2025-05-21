@@ -1,0 +1,7 @@
+requests
+sqlalchemy
+pandas
+numpy
+python-dotenv
+matplotlib
+scikit-learn

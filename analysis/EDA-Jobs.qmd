@@ -1,0 +1,322 @@
+---
+title: "Exploratory Data Analysis - Job Offers Dataset (Remotive + Jobicy)"
+author: "Ramiro Crespi"
+format: html
+editor: visual
+---
+
+Load Libraries
+
+```{r}
+library(tidyverse)
+library(modelr)
+library(naniar)
+library(tidytext)
+library(wordcloud)
+library(tm)
+    
+```
+
+Load data
+
+```{r}
+setwd('/Users/user/Documents/GitHub/job-data-project')
+df <- read_csv('data/processed/all_jobs.csv')
+
+```
+
+### Initial Analysis
+
+```{r}
+glimpse(df)
+summary(df)
+sapply(df, n_distinct)
+
+df %>% count(region)
+df %>% count(seniority)
+df %>% count(category, sort = TRUE)
+
+
+```
+
+Filtering 'Other' Values and Extreme Salaries
+
+```{r}
+other_seniorities <- df %>% filter(seniority == "Other")
+other_categories <- df %>% filter(category == "Other")
+other_regions <- df %>% filter(region == "Other")
+
+df_clean <- df %>%
+  filter(salary_cleaned < 1e6)
+
+quantile(df$salary_cleaned, probs = seq(0.9, 1, 0.01), na.rm = TRUE)
+
+
+```
+
+### Salary Visualizations
+
+```{r}
+
+ggplot(df, aes(x = salary_cleaned)) +
+  geom_histogram(bins = 30, fill = "#1f77b4") +
+  labs(title = "Distribución de salarios (USD)", x = "Salario", y = "Frecuencia") +
+  xlim(30000, 300000) +
+  theme_minimal()
+
+ggplot(df, aes(x = salary_cleaned)) +
+  geom_histogram(aes(y = ..density..), fill = "#1f77b4") +
+  geom_density(color = "firebrick", size = 1, bw = 9000) +
+  labs(title = "Distribución de salarios (USD)", x = "Salario", y = "Densidad") +
+  xlim(3000, 300000) +
+  theme_minimal()
+
+ggplot(df_clean, aes(x = category, y = salary_cleaned)) +
+  geom_boxplot(fill = "orange") +
+  coord_flip() +
+  labs(title = "Salary Distribution by Category", x = "Category", y = "Salary") +
+  theme_minimal()
+
+ggplot(df_clean, aes(x = region, y = salary_cleaned)) +
+  geom_boxplot(fill = "forestgreen") +
+  coord_flip() +
+  labs(title = "Salary Distribution by Region", x = "Region", y = "Salary") +
+  theme_minimal()
+
+ggplot(df_clean, aes(x = seniority, y = salary_cleaned)) +
+  geom_boxplot(fill = "steelblue") +
+  coord_flip() +
+  labs(title = "Salary Distribution by Seniority", x = "Seniority", y = "Salary") +
+  theme_minimal()
+
+```
+
+### Categories and Seniorities Analysis
+
+```{r}
+df %>%
+  count(category, sort = TRUE) %>%
+  ggplot(aes(x = reorder(category, n), y = n)) +
+  geom_col(fill = "purple") +
+  coord_flip() +
+  labs(title = "Cantidad de Ofertas por Categoría", x = "Categoría", y = "Cantidad") +
+  theme_minimal()
+
+df %>%
+  count(seniority, sort = TRUE) %>%
+  ggplot(aes(x = reorder(seniority, n), y = n)) +
+  geom_col(fill = "dodgerblue") +
+  coord_flip() +
+  labs(title = "Cantidad de Ofertas por Seniority", x = "Seniority", y = "Cantidad") +
+  theme_minimal()
+
+```
+
+### Time evolution
+
+```{r}
+df %>%
+  mutate(fecha = as_date(pubDate)) %>%
+  count(fecha) %>%
+  ggplot(aes(x = fecha, y = n)) +
+  geom_line(color = "firebrick", size = 1.1) +
+  labs(title = "Job Postings Over Time", x = "Date", y = "Count") +
+  theme_minimal()
+
+df %>%
+  mutate(pubDate = as.Date(pubDate),
+         day = weekdays(pubDate)) %>%
+  count(day) %>%
+  ggplot(aes(x = reorder(day, n), y = n)) +
+  geom_col(fill = "darkred") +
+  labs(title = "Job Postings by Weekday", x = "Day", y = "Count") +
+  coord_flip() +
+  theme_minimal()
+
+```
+
+Subsets by Category (Data, Engineering, Other)
+
+```{r}
+categories <- list("Data", "Engineering", "Other")
+
+for (cat in categories) {
+  df_cat <- df %>% filter(category == cat)
+
+  print(
+    ggplot(df_cat, aes(x = salary_cleaned)) +
+      geom_histogram(bins = 30, fill = "#1f77b4") +
+      labs(title = paste("Salary Distribution -", cat),
+           x = "Salary", y = "Frequency") +
+      xlim(30000, 300000) +
+      theme_minimal()
+  )
+}
+
+```
+
+Wordclouds by Category
+
+```{r}
+for (cat in categories) {
+  df %>%
+    filter(category == cat) %>%
+    pull(jobTitle) %>%
+    tolower() %>%
+    wordcloud::wordcloud(max.words = 100)
+}
+
+```
+
+Category vs Region
+
+```{r}
+df %>%
+  count(region, category) %>%
+  ggplot(aes(x = reorder(region, n), y = n, fill = category)) +
+  geom_col(position = "fill") +
+  coord_flip() +
+  labs(title = "Job Offers by Region and Category") +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1))
+
+```
+
+### Statistical (ANOVA) Analysis
+
+```{r}
+# ANOVA for salary by category
+anova_cat <- aov(salary_cleaned ~ category, data = df_clean)
+summary(anova_cat)
+
+# ANOVA for salary by region
+anova_reg <- aov(salary_cleaned ~ region, data = df_clean)
+summary(anova_reg)
+
+# ANOVA for salary by seniority
+anova_sen <- aov(salary_cleaned ~ seniority, data = df_clean)
+summary(anova_sen)
+
+```
+
+### Final Notes
+
+```{r}
+cat("Seniority level does not show significant differences in salary by itself. However, it is likely to have a meaningful effect when segmented by region, category, or both. This suggests that there may be interaction effects worth exploring in further analyses.")
+
+```
+
+Interacciones
+
+```{r}
+# Interaction Models
+
+# Seniority * Region
+interaction_model_1 <- lm(salary_cleaned ~ seniority * factor(region), data = df_clean)
+summary(interaction_model_1)
+
+# Seniority * Category
+interaction_model_2 <- lm(salary_cleaned ~ seniority * factor(category), data = df_clean)
+summary(interaction_model_2)
+
+# Region * Category
+interaction_model_3 <- lm(salary_cleaned ~ region * category, data = df_clean)
+summary(interaction_model_3)
+
+# Full 3-way interaction
+interaction_model_full <- lm(salary_cleaned ~ seniority * region * category, data = df_clean)
+summary(interaction_model_full)
+
+```
+
+```{r}
+anova(interaction_model_full)
+```
+
+### 🔎 Summary of Interaction Effects on Salary
+
+A series of linear models were fitted to explore whether the effect of `seniority` on salary depends on `region`, `category`, or both. The models tested interaction effects between pairs and across all three variables.
+
+Model 1: seniority × region
+
+```{r}
+anova(interaction_model_1)
+
+```
+
+-   **Region** is the most influential predictor (p \< 2e-16).
+
+-   **Seniority** has a small but statistically significant effect (p = 0.036).
+
+-   The interaction between **seniority and region** is **marginally significant** (p = 0.091), suggesting potential combined effects on salary worth exploring further.
+
+    Model 2: seniority × category
+
+    ```{r}
+    anova(interaction_model_2)
+    ```
+
+-   **Category** is weakly significant (p = 0.042).
+
+-   **Seniority** alone is **not** significant (p = 0.169).
+
+-   The interaction between **seniority and category** is **not significant** (p = 0.614), indicating no clear interaction effects in this model.
+
+    Model 3: region × category
+
+    ```{r}
+    anova(interaction_model_3)
+    ```
+
+-   **Region** again emerges as a highly significant predictor (p \< 2e-16).
+
+-   **Category** is not significant (p = 0.153).
+
+-   The interaction **region × category** is significant (p = 0.023), suggesting salaries vary across region–category combinations.
+
+Full Model: seniority × region × category
+
+```{r}
+anova(interaction_model_full)
+```
+
+-   Only **region** and **seniority** are significant main effects (p \< 2e-16 and p = 0.035, respectively).
+
+-   All interaction terms, including the **three-way interaction** (`seniority:region:category`), are **not statistically significant**.
+
+-   The marginal significance of the **seniority × region** interaction (p = 0.090) is preserved here, reinforcing the idea that this interaction may deserve further attention.
+
+### 💡 Interpretation
+
+These results confirm that:
+
+-   **Region consistently plays a key role in salary differences**.
+
+-   There is **some evidence that seniority interacts with region**, but not with category.
+
+-   The **full interaction model adds complexity without significantly improving explanation**, suggesting a simpler model (e.g., `seniority * region`) may suffice.
+
+```{r}
+library(plotly)
+
+p <- df_clean %>%
+  filter(!is.na(salary_cleaned), category != "Other", region != "Other") %>%
+  ggplot(aes(x = category, y = salary_cleaned, fill = region, text = paste("Region:", region, "<br>Salary:", salary_cleaned))) +
+  geom_boxplot(outlier.shape = NA, position = position_dodge(width = 0.8)) +
+  coord_flip() +
+  labs(title = "Salarios por Categoría y Región", x = "Categoría", y = "Salario (USD)") +
+  theme_minimal()
+
+ggplotly(p, tooltip = "text")
+
+```
+
+```{r}
+p2 <- df_clean %>% filter(!is.na(salary_cleaned), region != "Other", seniority != "Other") %>%
+  ggplot(aes(x = seniority, y = salary_cleaned, fill = region, text = paste("Region:", region, "<br>Seniority:", seniority, "<br>Salary:", salary_cleaned))) +
+  geom_boxplot(outlier.shape = NA, position = position_dodge(width = 0.8)) +
+  labs(title = "Salaries by Region and Seniority Level", x = "Seniority", y = "Salary (USD)") +
+  theme_minimal()
+
+ggplotly(p2, tooltip = "text")
+
+```
