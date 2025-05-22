@@ -66,7 +66,7 @@ ggplot(df, aes(x = salary_cleaned)) +
 
 ggplot(df, aes(x = salary_cleaned)) +
   geom_histogram(aes(y = ..density..), fill = "#1f77b4") +
-  geom_density(color = "firebrick", size = 1, bw = 9000) +
+  geom_density(color = "firebrick", linewidth = 1, bw = 9000) +
   labs(title = "Distribución de salarios (USD)", x = "Salario", y = "Densidad") +
   xlim(3000, 300000) +
   theme_minimal()
@@ -303,7 +303,7 @@ p <- df_clean %>%
   ggplot(aes(x = category, y = salary_cleaned, fill = region, text = paste("Region:", region, "<br>Salary:", salary_cleaned))) +
   geom_boxplot(outlier.shape = NA, position = position_dodge(width = 0.8)) +
   coord_flip() +
-  labs(title = "Salarios por Categoría y Región", x = "Categoría", y = "Salario (USD)") +
+  labs(title = "Salaries per Category and Region", x = "Category", y = "Salary (USD)") +
   theme_minimal()
 
 ggplotly(p, tooltip = "text")
